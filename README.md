@@ -1,6 +1,6 @@
 # Supervised-and-semi-supervised-analysis-of-seeds
 
-This data set in based on 209 observations of seeds.
+This data set in based on observations of seeds.
 The target variable is the category of wheat they belong to. There are 3 categories.
 It is a mixture of continuous and categorical variables.
 The main question that the dataset helps to answer is what category of wheat do the seeds belong to.
